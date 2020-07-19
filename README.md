@@ -6,5 +6,6 @@
   didn't go to college, working as a platform engineer at <a href="https://hash.ai">HASH</a>
   </samp>
   <br/>
+  <br/>
   <img src="https://github.com/weareziguanas/renders/blob/master/people/small/haze.svg"/>
 </p>
