@@ -1,9 +1,7 @@
-<img src="https://i.imgur.com/HMkMe4X.gif"/>
+<img src="https://lh3.googleusercontent.com/proxy/3rFNKmoANjiJfvQIe21U-oxdHk4GHqKITj-0FZXneoh7VuQoUh8Hs9_ebRPojIbC1HAJtL497yvJgaUV5bGVvmXsJgtq0H1bEGGcKMB5bdfDuBvGH-lCk9Hx0UNsgT0Q5mAA5M1Btk3Ck8cFH4M"/>
 <p>
   <samp>
-  yo, i'm a 19 year old software engineer.
-  <br/>
-  didn't go to college, working as a platform engineer at <a href="https://hash.ai">HASH</a>
+  platform engineer at <a href="https://hash.ai">HASH</a>
   </samp>
   <br/>
   <br/>
