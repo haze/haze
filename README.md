@@ -1,4 +1,4 @@
-<img src="https://lh3.googleusercontent.com/proxy/3rFNKmoANjiJfvQIe21U-oxdHk4GHqKITj-0FZXneoh7VuQoUh8Hs9_ebRPojIbC1HAJtL497yvJgaUV5bGVvmXsJgtq0H1bEGGcKMB5bdfDuBvGH-lCk9Hx0UNsgT0Q5mAA5M1Btk3Ck8cFH4M"/>
+<img src="https://s3.amazonaws.com/image.blingee.com/images19/content/output/000/000/000/819/841676249_570817.gif?4"/>
 <p>
   <samp>
   platform engineer at <a href="https://hash.ai">HASH</a>
