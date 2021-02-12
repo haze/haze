@@ -27,6 +27,6 @@ jobs:
           plugin_music_provider: lastfm  # Use Last.fm as provider
           plugin_music_mode: recent      # Set plugin mode
           plugin_music_limit: 4          # Limit to 4 entries
-          plugin_music_user: .user.login # Use same username as GitHub login
+          plugin_music_user: soul_serpent
           plugin_music_token: ${{ secrets.LASTFM_TOKEN }}
           config_timezone: America/New_York
