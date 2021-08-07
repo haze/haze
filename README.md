@@ -1,1 +1,1 @@
-![Metrics](https://github.com/haze/haze/blob/master/metrics.svg)
+![Metrics](https://i.imgur.com/5pgRGAX.gif)
